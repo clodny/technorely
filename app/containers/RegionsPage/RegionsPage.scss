@@ -1,0 +1,21 @@
+.main-menu {
+  .page-title {
+    margin-top: 24px;
+  }
+  .regions-container {
+    width: 50%;
+    margin: auto;
+    margin-top: 24px;
+
+    a {
+      text-decoration: none;
+    }
+  
+    .region {
+      color: black;
+      text-align: center;
+      padding: 24px 48px;
+      font-size: 18px;
+    }
+  }
+}

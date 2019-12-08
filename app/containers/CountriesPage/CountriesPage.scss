@@ -1,0 +1,30 @@
+.countries-page {
+  .header {
+    margin-bottom: 24px;
+    margin-top: 24px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    .back-button {
+      text-decoration: none;
+      color: black;
+      flex-grow: 0;
+    }
+    .page-title {
+      flex-grow: 1;
+    }
+  }
+}
+
+.country-info {
+  padding: 0;
+  list-style: none;
+
+  .country-info-item {
+    .prop-name {
+      font-weight: 500;
+    }
+  }
+}
