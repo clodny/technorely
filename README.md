@@ -6,22 +6,26 @@ This app is a test task for Technorely company job application. It provides you 
 
 **Clone repo**
 
-```git clone git@github.com:clodny/technorely.git
+```
+git clone git@github.com:clodny/technorely.git
 ```
 
 **Install packages**
 
-```yarn
+```
+yarn
 ```
 
 **Start app**
 
-```yarn start
+```
+yarn start
 ```
 
 **Build app**
 
-```yarn build
+```
+yarn build
 ```
 
 # License
